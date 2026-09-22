@@ -1,4 +1,4 @@
---// Stores animation IDs for different characters that are equipped. (unfinished)
+--// Organizes and stores animation assets for multiple game characters, including attack, death, and idle animations.
 
 local _Animations = {
 
