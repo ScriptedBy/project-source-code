@@ -1,5 +1,5 @@
 --// This project will be filtered between Server scripts, Client Scripts, and Module Scripts and will have brief explainations to what the code does.
---// Handles everything in the game as far as loading, saving and deleting player data.
+--// Manages core server-side player systems, including profile loading, character setup, collision groups, inventory, leaderboards, badges, and player data synchronization.
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage");
 local PhysicsService = game:GetService("PhysicsService");
