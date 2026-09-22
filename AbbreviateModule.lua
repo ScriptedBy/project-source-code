@@ -1,4 +1,4 @@
---// This is my abbreviate module, used to abbreviate high values.
+--// Formats large numbers into readable abbreviations like K, M, B, T, and Qa, with optional decimal rounding.
 
 local AbbreviateNumber = {}
 
