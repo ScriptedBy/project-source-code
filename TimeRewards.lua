@@ -1,4 +1,4 @@
---//Defines timed reward milestones with randomized currency payouts and special item rewards.
+--// Defines timed reward milestones with randomized currency payouts and special item rewards.
 
 local _Rewards = {
 
