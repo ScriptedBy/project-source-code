@@ -1,3 +1,4 @@
+--// This project will be filtered between Server scripts, Client Scripts, and Module Scripts and will have brief explainations to what the code does.
 --// Handles everything in the game as far as loading, saving and deleting player data.
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage");
