@@ -1,4 +1,4 @@
---// Manages global leaderboards by storing, ranking, and displaying player statistics for cases opened and rounds completed.
+--// Manages the crate system, including purchases, inventory limits, randomized rewards, game passes, item trading, and currency updates.
 
 local Players = game:GetService("Players");
 local HttpService = game:GetService("HttpService");
